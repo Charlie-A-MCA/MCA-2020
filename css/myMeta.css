@@ -1,17 +1,20 @@
-#title12345 {
-  font-size: 24pt;
-}
 mei-title[type="subordinate"] {
   font-size: 18pt;
   font-variant-caps: small-caps;
+  font-weight: bold;
   margin-top: -0.5em;
 }
 
 mei-filedesc > mei-titlestmt > mei-title {
   color: #595b66;
   display: block;
+  font-weight: bold;
 }
 
+mei-filedesc > mei-titlestmt > mei-composer {
+  display: block: 
+    white-space: pre; 
+}
 mei-filedesc > mei-titlestmt > mei-respstmt {
   display: block;
   margin-top: 1em;
