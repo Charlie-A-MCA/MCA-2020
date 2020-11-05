@@ -68,7 +68,7 @@ authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC
       </lyricst>
       <creation xml:id="creation_original" authURI="https://www.wikidata.org/wiki/Q19973" authority="Wikidata">
         <date> 2003 </date>
-        <geogName authURI="https://www.wikidata.org/wiki/Q30" authority="Wikidata> United States of America </geogName>
+        <geogName authURI="https://www.wikidata.org/wiki/Q30" authority="Wikidata"> United States of America </geogName>
       </creation>
       <classification>
          <genre> Alternative Rock </genre>
