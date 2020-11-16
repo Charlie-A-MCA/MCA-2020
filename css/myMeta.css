@@ -44,11 +44,13 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::befor
 }
 
 mei-filedesc > mei-pubstmt > mei-respstmt {
-  display: none;
+  display: block: 
+    white-space: pre; 
 }
 
 mei-pubstmt > mei-address {
-  display: none;
+  display: block: 
+    white-space: pre; 
 }
 
 mei-filedesc > mei-pubstmt > mei-date::before {
@@ -73,15 +75,18 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict::after {
 }
 
 mei-seriesstmt {
-  display: none;
+  display: block: 
+    white-space: pre; 
 }
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-identifier {
-  display: none;
+  display: block: 
+    white-space: pre; 
 }
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-identifier {
-  display: none;
+  display: block: 
+    white-space: pre; 
 }
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt::before {
