@@ -15,6 +15,12 @@ mei-filedesc > mei-titlestmt > mei-composer {
   display: block: 
     white-space: pre; 
 }
+
+mei-filedesc > mei-titlestmt > mei-arranger {
+  display: block: 
+    white-space: pre; 
+}
+
 mei-filedesc > mei-titlestmt > mei-respstmt {
   display: block;
   margin-top: 1em;
@@ -31,6 +37,7 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::befor
   content: '\a'"Encoded by: ";
   white-space: pre;
 }
+
 
 #pers12345 {
   margin-top: 2em;
