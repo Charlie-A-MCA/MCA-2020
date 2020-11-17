@@ -20,3 +20,36 @@
 [data-origname="titleStmt"]::before {
   content: "Title statement: ";
 }
+[data-origname="respStmt"]::before {
+  content: "Responsibility Statement: ";
+}
+[data-origname="PersName"]::before {
+  content: "Responsible Party: ";
+}
+[data-origname="Resp"]:: before {
+  content: "Responsiblilty: ";
+}
+[data-origname="editionStmt"]::before {
+  content: "Edition Statement: ";
+}
+[data-origname="Pubstmt"]::before {
+  content: "Publishing Statement: ";
+}
+[data-origname="AddrLine"]::before {
+  content: "Address line: ";
+}
+[data-origname="geogname"]::before {
+  content: "Place: ";
+}
+[data-origname="UseRestrict"]::before {
+  content: "Copyright: ";
+}
+[data-origname="SeriesStmt"]::before {
+  content: "Series Statement: ";
+}
+[data-origname="EncodingDesc"]::before {
+  content: "Encoding Description: ";
+}
+[data-origname="meiHead"] > * {
+padding-bottom: 1rem;
+}
