@@ -1,5 +1,7 @@
 # MCA of Charlie
 
+[WEEK 1](https://charlie-a-mca.github.io/MCA-2020/) | [WEEK 2]() | [WEEK 3]() | [WEEK 4]() | [WEEK 5]() | [WEEK 7]() | [WEEK 8]() | [WEEK 9]() | [WEEK 10]()
+
 ## Week 1 
 
 ### Task 2: Dataset Theme 
