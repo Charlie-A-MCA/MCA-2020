@@ -1,6 +1,6 @@
 # MCA of Charlie
 
-[WEEK 1](https://charlie-a-mca.github.io/MCA-2020/) | [WEEK 2]() | [WEEK 3]() | [WEEK 4]() | [WEEK 5]() | [WEEK 7]() | [WEEK 8]() | [WEEK 9]() | [WEEK 10]()
+[Week 1](https://charlie-a-mca.github.io/MCA-2020/) | [Week 2]() | [Week 3]() | [Week 4]() | [Week 5]() | [Week 7]() | [Week 8]() | [Week 9]() | [Week 10]()
 
 ## Week 1 
 
