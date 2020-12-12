@@ -229,23 +229,29 @@ I have not created histograms for the spectrogram element based upon Josh's advi
 ### Histograms computed from Chromagrams
 
 **Storybook**
+
 ![Chromagram Histogram of Storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Chroma/story-chroma-analysis.png)
 
 **Beyond the Warriors**
+
 ![Chromagram Histogram of Beyond the Warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Chroma/beyond-chroma-analysis.png)
 
 **Satan's Smile**
+
 ![Chromagram Historam of Satan's Smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Chroma/satan-chroma-analysis.png)
 
 ### Histograms computed from MFCCs 
 
 **Storybook**
+
 ![MFCC Histogram Storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Mel-Co/story-mel-co-analysis.png)
 
 **Beyond the Warriors**
+
 ![MFCC Histogram Beyond the Warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Mel-Co/beyond-mel-co-analysis.png)
 
 **Satan's Smile**
+
 ![MFCC Histogram Satan's Smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Mel-Co/satan-mel-co-analysis.png)
 
 ### Comparing the Histograms
