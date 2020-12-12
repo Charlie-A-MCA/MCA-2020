@@ -69,7 +69,7 @@ I have edited the code required to display my file in Verovio and made it viewab
 
 ## Task 1: Generating a jSymbolic
 
-For this task I have choosen to run a jSymbolic to determine information about the pitch, range, tones and melody of my piece. The following table displays my results which can also be found [here](https://charlie-a-mca.github.io/MCA-2020/Week04-Numb-Jsymbolic.csv)
+For this task I have choosen to run a jSymbolic to determine information about the pitch, range, tones and melody of my piece. The following table displays my results which can also be found [here](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%204/Numb%20Jsymbolic.csv)
 
 Feature | Result 
 -------- | --------
@@ -140,7 +140,7 @@ If theoretically I was to have 1000's of music files to store in my GitHub repos
   
 ## Task 2: Modified MEI
 
-I have modified my MEI file to contain the abov listed metadata, it can be viewed [here](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%205/Week05-Numb-edited-MEI.mei)
+I have modified my MEI file to contain the above listed metadata, it can be viewed [here](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%205/Week05-Numb-edited-MEI.mei)
 
 ---
 
@@ -148,7 +148,7 @@ I have modified my MEI file to contain the abov listed metadata, it can be viewe
 
 ## Task 1: Metadata Update
 
-I have checked through the metadata I added to my file in the last task and ensured it contained licensing data, genre classification and other values I deemed important. I did not find anything to add this week, though the file can be viewed [here](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%207/Week07-Numb-edited-MEI.mei)
+I have checked through the metadata I added to my file in the last task and ensured it contained licensing data, genre classification and other values I deemed important. I did not find anything to add this week, though the file can be viewed [here](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Lab%20Tasks/Week%207/Week07-Numb-edited-MEI.mei)
 
 ## Task 2: Rendering with Metadata
 
