@@ -45,7 +45,7 @@ Linkin Park’s official website offers links to streaming services that provide
 
 For this task I chose to transcribe Linkin Park's song Numb. The specific arrangement I have used can be found [here](https://sheetmusic-free.com/numb-sheet-music-linkin-park/). I have added an image below of my transcription, or you can download my MuseScore file [here](https://charlie-a-mca.github.io/MCA-2020/Week02-Numb.mscz)
 
-![Numb transcription in musescore](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%202/Week02-Numb-1.png)
+![Numb transcription in musescore](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%202/Week02-Numb-1.png)
 
 ---
 
@@ -93,19 +93,19 @@ The above table is difficult to understand so I have also ran a juypter notebook
 
 ### Pitch Histogram
 
-![Pitch Histogram of Numb transcription](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%204/Pitch%20histogram.png)
+![Pitch Histogram of Numb transcription](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%204/Pitch%20histogram.png)
 
 The above highlights the most commonly played note by showing how often every note in the song has been played. The graph shows the most common pitch as C/#5 equivalent to the MIDI pitch value of 73 as displayed above. 
 
 ### Piano Roll
 
-![Piano Roll of Numb Transcription](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%204/Piano%20Roll%20of%20pitches.png)
+![Piano Roll of Numb Transcription](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%204/Piano%20Roll%20of%20pitches.png)
 
 This Piano Roll shows the song visually through displaying the order of notes played, length they last and the pitch they are throughout the song. Although I have limited musical knowledge this clearly shows the notes or pitches the song is composed of and appears to correlate with the result of the jSymbolic analysis. 
 
 ### Scatter Plot
 
-![Scatter Plot of Numb Transcription, showing pitch](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%204/Scatter%20plot%20of%20pitches.png)
+![Scatter Plot of Numb Transcription, showing pitch](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%204/Scatter%20plot%20of%20pitches.png)
 
 The scatter plot shows all of the pitches in the song against the length of time they are played for, this looks similar to the Piano Roll and also correlates with the most common pitch played. 
 
@@ -184,16 +184,16 @@ Feild| Exampe 1 | Example 2 | Example 3
 For the three tracks listed in task 1, I have created a spectrogram and waveform for each. 
 
 **Storybook**
-![Waveform of storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%208/Storyook-waveform.png)
-![Spectrogram of storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%208/Storybook-spectrogram.png)
+![Waveform of storybook](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Storyook-waveform.png)
+![Spectrogram of storybook](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Storybook-spectrogram.png)
 
 **Beyond the Warriors**
-![Waveform of Beyond the warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%208/Beyond-waveform.png)
-![Spectrogram of Beyond the warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%208/Beyond-spectrogram.png)
+![Waveform of Beyond the warriors](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Beyond-waveform.png)
+![Spectrogram of Beyond the warriors](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Beyond-spectrogram.png)
 
 **Satan's Smile**
-![Waveform of Satan's smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%208/Satan-waveform.png)
-![Spectrogram of Satan's smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%208/Satan-spectrogram.png)
+![Waveform of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Satan-waveform.png)
+![Spectrogram of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Satan-spectrogram.pngg)
 
 ### Advantages of a time-frequency analysis over waveform-based analysis
 
@@ -208,19 +208,19 @@ There are a number of advantages to using a time-frequency analysis over a wave-
 I have used the same three tracks as last week for this task and have produced a Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram for each track using Sonic Visualiser. 
 
 **Storybook**
-![Spectrogram of Storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/story-spectrogram.png)
-![MFCC of Storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/story-mel-co.png)
-![Chromagram of Storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/story-chroma.png)
+![Spectrogram of Storybook](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/story-spectrogram.png)
+![MFCC of Storybook](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/story-mel-co.png)
+![Chromagram of Storybook](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/story-chroma.png)
 
 **Beyond the Warriors**
-![Spectrogram of Beyond the Warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/beyond-spectrogram.png)
-![MFCC of Beyond the Warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/beyond-mel-co.png)
-![Chromagram of Beyod the Warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/beyond-chroma.png)
+![Spectrogram of Beyond the Warriors](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/beyond-spectrogram.png)
+![MFCC of Beyond the Warriors](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/beyond-mel-co.png)
+![Chromagram of Beyod the Warriors](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/beyond-chroma.png)
 
 **Satan's Smile**
-![Spectrogram of Satan's smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/satan-spectrogram.png)
-![MFCC of Satan's smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/satan-mel-co.png)
-![Chromagram of Satan's smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/satan-chroma.png)
+![Spectrogram of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/satan-spectrogram.png)
+![MFCC of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/satan-mel-co.png)
+![Chromagram of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/satan-chroma.png)
 
 ## Task 2: Computing and Visualising Histograms of features
 
@@ -230,29 +230,29 @@ I have not created histograms for the spectrogram element based upon Josh's advi
 
 **Storybook**
 
-![Chromagram Histogram of Storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Chroma/story-chroma-analysis.png)
+![Chromagram Histogram of Storybook](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/Histograms/Chroma/story-chroma-analysis.png)
 
 **Beyond the Warriors**
 
-![Chromagram Histogram of Beyond the Warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Chroma/beyond-chroma-analysis.png)
+![Chromagram Histogram of Beyond the Warriors](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/Histograms/Chroma/beyond-chroma-analysis.png)
 
 **Satan's Smile**
 
-![Chromagram Historam of Satan's Smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Chroma/satan-chroma-analysis.png)
+![Chromagram Historam of Satan's Smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/Histograms/Chroma/satan-chroma-analysis.png)
 
 ### Histograms computed from MFCCs 
 
 **Storybook**
 
-![MFCC Histogram Storybook](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Mel-Co/story-mel-co-analysis.png)
+![MFCC Histogram Storybook](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/Histograms/Mel-Co/story-mel-co-analysis.png)
 
 **Beyond the Warriors**
 
-![MFCC Histogram Beyond the Warriors](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Mel-Co/beyond-mel-co-analysis.png)
+![MFCC Histogram Beyond the Warriors](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/Histograms/Mel-Co/beyond-mel-co-analysis.png)
 
 **Satan's Smile**
 
-![MFCC Histogram Satan's Smile](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%209/Histograms/Mel-Co/satan-mel-co-analysis.png)
+![MFCC Histogram Satan's Smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%209/Histograms/Mel-Co/satan-mel-co-analysis.png)
 
 ### Comparing the Histograms
 
@@ -266,7 +266,7 @@ The Chroma histograms vary for the three tracks in a number of ways, by listenin
 
 In this task I used three tracks from the metal genre obtained from freemusicarchive.org.  The similarity matrix displays my tracks in slots 7-9, these tracks are Euology by Castles in the Sky (track 7), She Who Struggles by Tyranny is Tyranny (track 8) and Satan's Smile as used previously is track 9. The tracks in 0-3 are classical and 4-6 are of the rock genre. 
 
-![Similarity matrix](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%2010/similaritymatrix.png) 
+![Similarity matrix](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%2010/similaritymatrix.png) 
 
 The similarity matrix shows how the classical tracks are very different to the rock and metal genre, as would be expected. However the rock and metal genre is interesting as some of the tracks classed as metal appear to match more closely with the rock genre, despite some clear difference in sound when listening to the tracks. 
 
@@ -275,10 +275,10 @@ The similarity matrix shows how the classical tracks are very different to the r
 This task uses the track Numb by Linkin Park, which is what I transcribed in week 2/Notated Music. I have completed the task by exporting the MuseScore Notation into a Wav. file which I have then imported into Sonic Visualiser, transformed into a piano roll and then exported as a MIDI file. I have then used MuseScore to open and transcribe the MIDI file as sheet music. I have included the two images below for comparison. 
 
 **Original Transcription** 
-![Original Transcription of Numb](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%2010/Week02-Numb-1.png)
+![Original Transcription of Numb](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%2010/Week02-Numb-1.png)
 
 **MIDI File Transcription**
-![MIDI file transcription of Numb](https://github.com/Charlie-A-MCA/MCA-2020/blob/master/Lab%20Tasks/Week%2010/numb-transribed-1.png)
+![MIDI file transcription of Numb](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%2010/numb-transribed-1.png)
 
 In terms of sound, the transcribed version sounds similar to the original, however when looking at the notated sheet music there are some clear differences. The main difference is that the transcribed version has more bars to cover the same length of music. This is likely because a ¾ time signature is used instead of the 4/4 used in the original. There is also a different pitch used which is interesting given they still sound similar, though as different notes in the pieces this would help to explain this. Overall, the transcription is not the most accurate as it is much harder for a human to read and use than the original. In addition the transcribed piece lacks the additional information such as the title and artist, but does use the same tempo. 
 
