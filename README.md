@@ -193,7 +193,7 @@ For the three tracks listed in task 1, I have created a spectrogram and waveform
 
 **Satan's Smile**
 ![Waveform of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Satan-waveform.png)
-![Spectrogram of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Satan-spectrogram.pngg)
+![Spectrogram of Satan's smile](https://charlie-a-mca.github.io/MCA-2020/Lab%20Tasks/Week%208/Satan-spectrogram.png)
 
 ### Advantages of a time-frequency analysis over waveform-based analysis
 
